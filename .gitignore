@@ -1,0 +1,34 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/nextjs-netninja/node_modules
+/nextjs-netninja/.pnp
+/nextjs-netninja/.pnp.js
+
+# testing
+/nextjs-netninja/coverage
+
+# next.js
+/nextjs-netninja/.next/
+/nextjs-netninja/out/
+
+# production
+/nextjs-netninja/build
+
+# misc
+/nextjs-netninja/.DS_Store
+/nextjs-netninja/*.pem
+
+# debug
+/nextjs-netninja/npm-debug.log*
+/nextjs-netninja/yarn-debug.log*
+/nextjs-netninja/yarn-error.log*
+
+# local env files
+/nextjs-netninja/.env.local
+/nextjs-netninja/.env.development.local
+/nextjs-netninja/.env.test.local
+/nextjs-netninja/.env.production.local
+
+# vercel
+/nextjs-netninja/.vercel

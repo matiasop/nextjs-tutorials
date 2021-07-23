@@ -32,3 +32,38 @@
 
 # vercel
 /nextjs-netninja/.vercel
+
+# codevolution
+
+# dependencies
+/nextjs-codevolution/node_modules
+/nextjs-codevolution/.pnp
+/nextjs-codevolution/.pnp.js
+
+# testing
+/nextjs-codevolution/coverage
+
+# next.js
+/nextjs-codevolution/.next/
+/nextjs-codevolution/out/
+
+# production
+/nextjs-codevolution/build
+
+# misc
+/nextjs-codevolution/.DS_Store
+/nextjs-codevolution/*.pem
+
+# debug
+/nextjs-codevolution/npm-debug.log*
+/nextjs-codevolution/yarn-debug.log*
+/nextjs-codevolution/yarn-error.log*
+
+# local env files
+/nextjs-codevolution/.env.local
+/nextjs-codevolution/.env.development.local
+/nextjs-codevolution/.env.test.local
+/nextjs-codevolution/.env.production.local
+
+# vercel
+/nextjs-codevolution/.vercel
